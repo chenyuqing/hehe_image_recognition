@@ -1,0 +1,3 @@
+Go to the $CAFFE/tools/extras/parse_log.sh
+Command: parse_log.sh /your/log_name
+After that, you can get two files: train and test
