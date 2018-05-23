@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blouse</folder>
+	<filename>001704.jpg</filename>
+	<path>/home/honghaier1688/workspaces/Images/Blouse/001704.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>629</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>170</ymin>
+			<xmax>417</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

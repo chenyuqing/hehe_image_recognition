@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Skirts</folder>
+	<filename>000138.jpg</filename>
+	<path>/home/honghaier1688/workspaces/Images/Skirts/000138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>133</ymin>
+			<xmax>348</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>
